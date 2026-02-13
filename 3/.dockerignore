@@ -1,7 +1,7 @@
 venv/
 .idea/
 fastapi.db
-README.MD
+../README.MD
 
 .venv/
 __pycache__/
