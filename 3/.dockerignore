@@ -1,0 +1,11 @@
+venv/
+.idea/
+fastapi.db
+README.MD
+
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.git/
+*.log
