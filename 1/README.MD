@@ -1,0 +1,1 @@
+* [Ссылка](https://app.quickdatabasediagrams.com/#/d/SkJAr7), чтобы просмотреть диаграмму через конструктор.
